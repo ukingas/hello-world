@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+a {
+  font-size: 20px;
+  margin: 20px;
+  color: royalblue;
+}
+
+selector {
+  color: darkorange;
+  background-color: lightblue;
+}
